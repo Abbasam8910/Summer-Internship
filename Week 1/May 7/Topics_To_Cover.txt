@@ -1,0 +1,6 @@
+🔹 Topic to Cover:
+"File Operations & Lists/Dictionaries
+- Reading/writing files
+- List and dictionary operations
+- Handling file errors
+Introduction to LLMs."
