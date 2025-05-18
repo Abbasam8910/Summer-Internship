@@ -1,5 +1,0 @@
-🔹 Topic to Cover:
-"NumPy, Pandas, Matplotlib (Intro)
-- NumPy arrays and basic operations
-- Pandas DataFrames
-- Simple plots with matplotlib"

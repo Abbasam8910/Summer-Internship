@@ -1,3 +1,0 @@
-Chunking, 
-Gemini API, 
-Prompt Engineering

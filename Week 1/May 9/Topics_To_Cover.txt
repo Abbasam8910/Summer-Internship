@@ -1,3 +1,0 @@
-- Classes and objects
-- Methods and attributes
-- Inheritance (basic)

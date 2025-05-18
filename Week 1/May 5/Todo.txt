@@ -1,3 +1,0 @@
-* Build a simple calculator (add, subtract, multiply, divide)
-* Create a number guessing game
-* Write a program to print the Fibonacci sequence up to n terms

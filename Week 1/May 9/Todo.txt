@@ -1,3 +1,0 @@
-- Implement a basic Bank Account class (deposit, withdraw, balance)
-- Create a Student Management System (add, remove, search students)
-- Final project: Data analysis script that loads a CSV, processes data, and plots results

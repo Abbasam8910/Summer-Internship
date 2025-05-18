@@ -1,4 +1,0 @@
-- Analyze a CSV file (e.g., sales data)( Use a dummy data made by you or get it from somewhere ) using pandas. Use all the functions you have learned in the program
-- Plot a simple bar chart of data. Use all the functions you have learned in the program
-- Calculate mean, median, and standard deviation of a dataset with NumPy. Use all the functions you have learned in the program
-- upload all the above programs along with the outputs on a seperate folder. just a screen shot of the terminal is enough

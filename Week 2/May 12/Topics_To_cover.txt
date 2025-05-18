@@ -1,3 +1,0 @@
-PDF Data Extraction, 
-ChromaDB, 
-LLMs & RAG Concepts

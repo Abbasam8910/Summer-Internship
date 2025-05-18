@@ -1,7 +1,0 @@
-- Implement extract_pdf_text(filepath) to return all text from a PDF. (Write a function using PyMuPDF to extract text from a PDF)
-- Create a ChromaDB instance
-- Initialize ChromaDB and store a sample document.
-- Write a short note on:
-- - What is a vector database?
-- -What is Agentic RAG?
-- Write a 15-20 sentence note for each concept as text file.
