@@ -1,0 +1,3 @@
+- Write a function to check if a string is a palindrome
+- Implement a simple login system (with basic error handling for wrong input)
+- Build a temperature converter (Celsius/Fahrenheit)

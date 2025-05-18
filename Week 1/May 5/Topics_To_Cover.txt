@@ -1,0 +1,10 @@
+
+🔹 Topics to Cover:
+
+> Installation and setup
+> Python Basics:
+
+* Variables, Data Types
+* Input/Output
+* Conditionals
+* Loops
