@@ -1,0 +1,2 @@
+- Write a function to chunk text (from PDF)
+- Write a program to call Gemini API and display output
