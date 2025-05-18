@@ -1,0 +1,6 @@
+"Build Agentic RAG Chat with PDF
+- Combine :
+-- PDF extraction, 
+-- chunking, 
+-- ChromaDB, 
+-- Gemini API"

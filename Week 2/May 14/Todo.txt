@@ -1,0 +1,8 @@
+-- extract PDF text data, 
+-- chunk, 
+-- store in ChromaDB, 
+-- retrieve relevant chunks, 
+-- and answer user queries
+- Input: PDF file
+- Process: Extract, chunk, store in ChromaDB
+- Query: User asks a question, system retrieves relevant info and calls LLM to answer
